@@ -1,0 +1,18 @@
+version: 2026-05-27
+status: ACTIVE
+classification: public_non_ip
+service_domains:
+  - api_contracts
+  - sdk_interfaces
+  - worker_orchestration_public
+  - observability_templates
+platform_targets:
+  - web
+  - ios
+  - android
+  - macos
+  - windows
+  - linux
+  - saas
+canonical_source_repo: https://github.com/jason-fells-research/ethraeon-canonical-app
+organization_home: https://github.com/Ethraeon-Systems
