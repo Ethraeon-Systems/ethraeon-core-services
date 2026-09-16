@@ -14,11 +14,10 @@ internals are deliberately held out of public scope.
 - **Organization home:** https://github.com/Ethraeon-Systems
 - **Canonical source / coordination repo:** https://github.com/jason-fells-research/ethraeon-canonical-app
 - **Authority:** S. Jason Prohaska, CEO, ETHRAEON Systems (ingombrante)
-- **Chain root:** `687e0c0f`
 
 ## About ETHRAEON Systems
 
-ETHRAEON is governed by a single principle: *Humanitas ante Machinam* — humanity before
+ETHRAEON is governed by a single principle: *Humanitas ante Machinam* - humanity before
 the machine. It is positioned as AGI-class, ASI-class, SGI-category governance
 infrastructure: a constitutional, vendor-agnostic, sovereign-capable substrate for
 autonomous AI orchestration. The category positioning describes the architecture; it is
@@ -26,7 +25,7 @@ not a claim that general or superintelligence has been achieved.
 
 ### Architecture
 
-**Brain — TRINITY**
+**Brain - TRINITY**
 - GENESIS, the origin engine
 - GENTHOS, the relational engine
 - PRAXIS, the execution engine
@@ -54,10 +53,10 @@ real; what is not yet here is named as scope, never implied as shipped.
 
 Per `PUBLIC_SERVICE_SCOPE.yaml`:
 
-- **API contracts** — request/response schemas and interface definitions
-- **SDK interfaces** — SDK-facing adapters for consumer integration
-- **Worker orchestration (public)** — public-safe orchestration scaffolds
-- **Observability templates** — CI/CD and monitoring templates
+- **API contracts** - request/response schemas and interface definitions
+- **SDK interfaces** - SDK-facing adapters for consumer integration
+- **Worker orchestration (public)** - public-safe orchestration scaffolds
+- **Observability templates** - CI/CD and monitoring templates
 
 **Platform targets:** web, iOS, Android, macOS, Windows, Linux, SaaS.
 
