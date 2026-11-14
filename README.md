@@ -27,7 +27,7 @@ The application repository is `Ethraeon-Systems/ethraeon-canonical-app`. Systems
 
 ## Intellectual property
 
-75 specifications / 8 families.
+79 provisional applications to be refiled, 79 technical specifications, ten families.
 
 ## Contact
 
