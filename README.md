@@ -6,7 +6,7 @@ ETHRAEON is a native AI platform offering enterprise software, agentic solutions
 
 ## What is here today
 
-`PUBLIC_SERVICE_SCOPE.yaml` sets the four service domains and the platform targets. Service code lands here component by component as each is cleared for public release.
+`PUBLIC_SERVICE_SCOPE.yaml` sets the four service domains and the platform targets. Service code is added here component by component, each after clearance for public release.
 
 | Service domain | What it covers |
 |---|---|
@@ -19,7 +19,7 @@ Platform targets: web, iOS, Android, macOS, Windows, Linux, SaaS.
 
 ## What stays out
 
-Protected internals, private operational records and filed material.
+Protected internals, private operational records and patent material.
 
 ## Where the work lives
 
