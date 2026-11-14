@@ -1,99 +1,38 @@
-# ETHRAEON Core Services
+# ethraeon-core-services
 
-**The public, open-source service layer of ETHRAEON Systems.**
+The public service layer of ETHRAEON Systems: API contracts, SDK interfaces, public orchestration scaffolds and observability templates.
 
-> Humanitas ante Machinam. Humanity before the machine.
+ETHRAEON is a native AI platform offering enterprise software, agentic solutions and distributed compute for intelligent systems at scale. Its shared architecture amplifies human ingenuity and creativity.
 
-ETHRAEON Systems builds a **constitutional runtime and evidence control layer** for AI
-systems, and a new enterprise infrastructure category. This repository is the public,
-non-IP face of that platform: the API contracts, SDK interfaces, worker-orchestration
-scaffolds, and observability templates that are cleared for open collaboration. The
-protected constitutional internals, private operational evidence, and patent-claim
-internals are deliberately held out of public scope.
+## What is here today
 
-- **Organization home:** https://github.com/Ethraeon-Systems
-- **Canonical source / coordination repo:** https://github.com/jason-fells-research/ethraeon-canonical-app
-- **Authority:** S. Jason Prohaska, CEO, ETHRAEON Systems (ingombrante)
+`PUBLIC_SERVICE_SCOPE.yaml` sets the four service domains and the platform targets. Service code lands here component by component as each is cleared for public release.
 
-## About ETHRAEON Systems
+| Service domain | What it covers |
+|---|---|
+| `api_contracts` | request and response schemas, interface definitions |
+| `sdk_interfaces` | SDK adapters for integrators |
+| `worker_orchestration_public` | public orchestration scaffolds |
+| `observability_templates` | CI/CD and monitoring templates |
 
-ETHRAEON is governed by a single principle: *Humanitas ante Machinam* - humanity before
-the machine. It is positioned as AGI-class, ASI-class, SGI-category governance
-infrastructure: a constitutional, vendor-agnostic, sovereign-capable substrate for
-autonomous AI orchestration. The category positioning describes the architecture; it is
-not a claim that general or superintelligence has been achieved.
+Platform targets: web, iOS, Android, macOS, Windows, Linux, SaaS.
 
-### Architecture
+## What stays out
 
-**Brain - TRINITY**
-- GENESIS, the origin engine
-- GENTHOS, the relational engine
-- PRAXIS, the execution engine
+Protected internals, private operational records and filed material.
 
-**Spine**
-- the DSUM Codex of seven invariants
-- KAIROS, the temporal layer
-- SYLION, the memory layer
-- VELKOR, the safety layer
-- human oversight (the human-in-the-loop is non-delegable)
+## Where the work lives
 
-**VESPER** is the sovereign AI operating system at the center of the platform: a
-constitutional governance OS, not a billing or monitoring dashboard.
-
-## This repository
-
-### Status
-
-Public-core buildout, initialized 2026-05-27. The repository currently publishes its
-**scope and boundaries** (`PUBLIC_SERVICE_SCOPE.yaml`) ahead of the service code.
-Components land here as they are cleared for public distribution: what is present is
-real; what is not yet here is named as scope, never implied as shipped.
-
-### Scope (public, non-IP)
-
-Per `PUBLIC_SERVICE_SCOPE.yaml`:
-
-- **API contracts** - request/response schemas and interface definitions
-- **SDK interfaces** - SDK-facing adapters for consumer integration
-- **Worker orchestration (public)** - public-safe orchestration scaffolds
-- **Observability templates** - CI/CD and monitoring templates
-
-**Platform targets:** web, iOS, Android, macOS, Windows, Linux, SaaS.
-
-### Out of scope (by design)
-
-To keep protected IP and private operations out of public reach, this repository does
-**not** contain protected constitutional runtime internals, private operational
-evidence, or restricted patent-claim internals.
+The application repository is `Ethraeon-Systems/ethraeon-canonical-app`. Systems, products and papers: https://ethraeon.ai/.
 
 ## Intellectual property
 
-ETHRAEON Systems holds a patent portfolio of **73 specifications across 9 families**,
-of which **16 provisional patent applications are filed with the USPTO** (microentity).
-Applications are filed; no grant is claimed. Specific serial numbers are not listed here.
+75 specifications / 8 families.
 
-## Positioning (stated figures, never collapsed to one number)
+## Contact
 
-ETHRAEON Systems' internal valuation set, carried as distinct lanes:
+https://contact.ethraeon.ai/
 
-- **IP value:** ~$883.3M IP replacement value (P90, per internal valuation model)
-- **Enterprise framing:** $14B+ (Decacorn-layer forward framing, not a present fact)
-- **Total addressable market:** ~$251B
+Copyright 2024-2026 ETHRAEON Systems.
 
-These are ETHRAEON's stated figures from its own valuation work, not independently
-audited or established values.
-
-## Coordination and contributions
-
-Public-distribution code here is intended for open collaboration. Contribution and
-licensing terms will be published alongside the first service components; until then,
-treat the contents as scope definition and coordinate via the canonical repository
-above.
-
----
-
-Copyright 2025-2026 S. Jason Prohaska, ETHRAEON Systems (ingombrante). All rights
-reserved. Public-distribution components are released under terms published with each
-component.
-
-Humanitas ante Machinam.
+Humanitas Ante Machinam.
