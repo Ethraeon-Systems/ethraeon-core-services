@@ -1,33 +1,37 @@
-# ethraeon-core-services
+# ETHRAEON CORE SERVICES
 
-The public service layer of ETHRAEON Systems: API contracts, SDK interfaces, public orchestration scaffolds and observability templates.
+A public service layer of ETHRAEON Systems: 
+API contracts, SDK interfaces, public orchestration scaffolds and observability templates.
 
-ETHRAEON is a native AI platform offering enterprise software, agentic solutions and distributed compute for intelligent systems at scale. Its shared architecture amplifies human ingenuity and creativity.
+ETHRAEON is a premier native AI platform delivering enterprise software, agentic solutions, and distributed compute designed for scalable intelligent systems. Built upon a shared constitutional architecture, our technology elevates human creativity and ingenuity.
 
-## What is here today
+## What you may find here
 
 `PUBLIC_SERVICE_SCOPE.yaml` sets the four service domains and the platform targets. Service code is added here component by component, each after clearance for public release.
 
-| Service domain | What it covers |
+| Service domain | Coverage |
 |---|---|
 | `api_contracts` | request and response schemas, interface definitions |
 | `sdk_interfaces` | SDK adapters for integrators |
 | `worker_orchestration_public` | public orchestration scaffolds |
 | `observability_templates` | CI/CD and monitoring templates |
 
-Platform targets: web, iOS, Android, macOS, Windows, Linux, SaaS.
+Platforms: web, iOS, Android, macOS, Windows, Linux, SaaS.
 
-## What stays out
+## Private
 
 Protected internals, private operational records and patent material.
 
-## Where the work lives
+## Key repos
 
-The application repository is `Ethraeon-Systems/ethraeon-canonical-app`. Systems, products and papers: https://ethraeon.ai/.
+Application Repo: `Ethraeon-Systems/ethraeon-canonical-app`
+Apex home: https://ethraeon.ai/
+Enterprise Open Source portal: https://github.com/enterprises/ethraeon-systems
 
-## Intellectual property
 
-79 provisional applications to be refiled, 79 technical specifications, ten families.
+## Intellectual property (IP)
+
+79 provisional applications, 79 technical specifications, ten portfolio families.
 
 ## Contact
 
