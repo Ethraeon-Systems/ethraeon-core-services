@@ -1,9 +1,34 @@
 # ETHRAEON CORE SERVICES
 
-A public service layer of ETHRAEON Systems: 
+A public service layer.
+
+## ETHRAEON Systems: 
 API contracts, SDK interfaces, public orchestration scaffolds and observability templates.
 
-ETHRAEON is a premier native AI platform delivering enterprise software, agentic solutions, and distributed compute designed for scalable intelligent systems. Built upon a shared constitutional architecture, our technology elevates human creativity and ingenuity.
+## ETHRAEON is a premier native AI platform delivering enterprise software, agentic solutions, and distributed compute designed for scalable intelligent systems. Built upon a shared constitutional architecture, our technology elevates human creativity and ingenuity.
+
+## Flexible Delivery Models
+We provide software subscriptions, system licensing, and custom co-developed solutions tailored to your needs.
+
+## Core Capabilities & Features
+Multi-Agent Orchestrator: 
+Efficiently delegates tasks and maintains context flow across autonomous agents.
+
+## Compliance Engine: 
+Validates outputs against your specified regulatory standards and internal governance policies.
+
+## VividForge for Creators: 
+Powers creative workflows with dedicated production tools, world-building engines, and original game and film development.
+
+## Deployment & Enterprise Integration
+Deploy ETHRAEON seamlessly within our cloud, on-premises, or inside air-gapped environments. 
+We offer complete white-label software, enterprise integration, and specialized cloud engineering.
+
+## Get Started
+Schedule a briefing to discuss your build and deployment requirements at ethraeon.ai
+contact@ethraeon.systems
+
+## GENERAL INFORMATION
 
 ## What you may find here
 
