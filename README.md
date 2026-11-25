@@ -2,33 +2,33 @@
 
 A public service layer.
 
-## ETHRAEON Systems: 
+## ETHRAEON Systems
+
 API contracts, SDK interfaces, public orchestration scaffolds and observability templates.
 
-## ETHRAEON is a premier native AI platform delivering enterprise software, agentic solutions, and distributed compute designed for scalable intelligent systems. Built upon a shared constitutional architecture, our technology elevates human creativity and ingenuity.
+ETHRAEON is a native AI platform offering enterprise software, agentic solutions and distributed compute for intelligent systems at scale. Its shared architecture amplifies human ingenuity and creativity.
 
 ## Flexible Delivery Models
+
 We provide software subscriptions, system licensing, and custom co-developed solutions tailored to your needs.
 
-## Core Capabilities & Features
-Multi-Agent Orchestrator: 
-Efficiently delegates tasks and maintains context flow across autonomous agents.
+## Core Capabilities and Features
 
-## Compliance Engine: 
-Validates outputs against your specified regulatory standards and internal governance policies.
+**Multi-Agent Orchestrator:** Efficiently delegates tasks and maintains context flow across autonomous agents.
 
-## VividForge for Creators: 
-Powers creative workflows with dedicated production tools, world-building engines, and original game and film development.
+**Compliance Engine:** Validates outputs against your specified regulatory standards and internal governance policies.
 
-## Deployment & Enterprise Integration
-Deploy ETHRAEON seamlessly within our cloud, on-premises, or inside air-gapped environments. 
+**VividForge for Creators:** Powers creative workflows with dedicated production tools, world-building engines, and original game and film development.
+
+## Deployment and Enterprise Integration
+
+Deploy ETHRAEON within our cloud, on-premises, or inside air-gapped environments.
 We offer complete white-label software, enterprise integration, and specialized cloud engineering.
 
 ## Get Started
-Schedule a briefing to discuss your build and deployment requirements at ethraeon.ai
-contact@ethraeon.systems
 
-## GENERAL INFORMATION
+Schedule a briefing to discuss your build and deployment requirements at [ethraeon.ai](https://ethraeon.ai/).
+contact@ethraeon.systems
 
 ## What you may find here
 
@@ -49,10 +49,12 @@ Protected internals, private operational records and patent material.
 
 ## Key repos
 
-Application Repo: `Ethraeon-Systems/ethraeon-canonical-app`
-Apex home: https://ethraeon.ai/
-Enterprise Open Source portal: https://github.com/enterprises/ethraeon-systems
-
+- Application Repo: `Ethraeon-Systems/ethraeon-canonical-app`
+- Master repository of system specifications: `Ethraeon-Systems/ethraeon-master-repo-ecosystems`
+- [Ethraeon-Systems/.github](https://github.com/Ethraeon-Systems/.github): organization profile repository
+- [Ethraeon-Systems](https://github.com/Ethraeon-Systems): organization
+- Apex home: https://ethraeon.ai/
+- Enterprise Open Source portal: https://github.com/enterprises/ethraeon-systems
 
 ## Intellectual property (IP)
 
