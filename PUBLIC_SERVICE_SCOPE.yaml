@@ -14,5 +14,5 @@ platform_targets:
   - windows
   - linux
   - saas
-canonical_source_repo: https://github.com/jason-fells-research/ethraeon-canonical-app
+canonical_source_repo: https://github.com/Ethraeon-Systems/ethraeon-canonical-app
 organization_home: https://github.com/Ethraeon-Systems
